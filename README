@@ -1,0 +1,9 @@
+This program allows you to encrypt/decrypt your file.
+
+You may custom your encryption by choosing :
+	- the bytes to encrypt
+	- the value fluctuation
+	- vigenere or ceasar encryption
+	- add or remove the value (c adds and d decrease)
+
+Without knowing the 4 choices you did, no one can decrypt your file.
