@@ -49,7 +49,7 @@ int	main(int ac, char **av)
 		puterr(av[0]);
 		puterr(" file_to_encrypt byte value c|d\n");
 		puterr("byte : alter value every byte bytes\n");
-		puterr("value : alter with value \n\t(use '-' at the beginning of value to use a password)");
+		puterr("value : alter with value \n\t(use '-' at the beginning of value to use a password)\n");
 		puterr("c : crypt\n");
 		puterr("d : decrypt\n");
 		return (1);
